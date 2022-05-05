@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintAPI\obj\Debug\net6.0\FingerprintAPI.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintAPI\obj\Debug\net6.0\FingerprintAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintAPI\obj\Debug\net6.0\FingerprintAPI.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintAPI\obj\Debug\net6.0\FingerprintAPI.AssemblyInfo.cs
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintAPI\obj\Debug\net6.0\FingerprintAPI.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintAPI\obj\Debug\net6.0\FingerprintAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintAPI\obj\Debug\net6.0\FingerprintAPI.MvcApplicationPartsAssemblyInfo.cache
