@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintDataAcessLayer\bin\Debug\net6.0\FingerprintDataAcessLayer.deps.json
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintDataAcessLayer\bin\Debug\net6.0\FingerprintDataAcessLayer.dll
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintDataAcessLayer\bin\Debug\net6.0\ref\FingerprintDataAcessLayer.dll
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintDataAcessLayer\bin\Debug\net6.0\FingerprintDataAcessLayer.pdb
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintDataAcessLayer\obj\Debug\net6.0\FingerprintDataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintDataAcessLayer\obj\Debug\net6.0\FingerprintDataAcessLayer.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintDataAcessLayer\obj\Debug\net6.0\FingerprintDataAcessLayer.AssemblyInfo.cs
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintDataAcessLayer\obj\Debug\net6.0\FingerprintDataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintDataAcessLayer\obj\Debug\net6.0\FingerprintDataAcessLayer.dll
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintDataAcessLayer\obj\Debug\net6.0\ref\FingerprintDataAcessLayer.dll
+C:\Users\USER\source\repos\FingerprintAPI\FingerprintDataAcessLayer\obj\Debug\net6.0\FingerprintDataAcessLayer.pdb

@@ -5,7 +5,12 @@
       "ProjectGuid": "1731af2e-65b5-4a89-b4b4-0e70f841e8f8",
       "DisplayName": "FingerprintAPI",
       "ColorIndex": 0
+    },
+    "57b10e99-0563-4d4b-bab7-6d0133fb30a6": {
+      "ProjectGuid": "57b10e99-0563-4d4b-bab7-6d0133fb30a6",
+      "DisplayName": "FingerprintDataAcessLayer",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

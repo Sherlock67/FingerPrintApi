@@ -3108,6 +3108,19 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "FingerprintDataAcessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.4"
+        },
+        "compile": {
+          "bin/placeholder/FingerprintDataAcessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FingerprintDataAcessLayer.dll": {}
+        }
       }
     }
   },
@@ -9641,10 +9654,16 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "FingerprintDataAcessLayer/1.0.0": {
+      "type": "project",
+      "path": "../FingerprintDataAcessLayer/FingerprintDataAcessLayer.csproj",
+      "msbuildProject": "../FingerprintDataAcessLayer/FingerprintDataAcessLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "FingerprintDataAcessLayer >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.4",
@@ -9678,7 +9697,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\USER\\source\\repos\\FingerprintAPI\\FingerprintDataAcessLayer\\FingerprintDataAcessLayer.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\FingerprintAPI\\FingerprintDataAcessLayer\\FingerprintDataAcessLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
